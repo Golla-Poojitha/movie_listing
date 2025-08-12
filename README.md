@@ -22,7 +22,7 @@ Bootstrap 5
 Clone the repository to your local machine:
 
 
-1. git clone (https://rajeshgonela.github.io/movie_listing/)
+1. git clone ((https://github.com/Golla-Poojitha/movie_listing))
 
 
 2. Open the index.html file in your preferred web browser.
@@ -46,3 +46,4 @@ Clone the repository to your local machine:
 Movie data is fetched from https://api.themoviedb.org/3/movie/popular?api_key=${apiKey}.
 
 Favicon: https://favicon.io/favicon-converter/
+
